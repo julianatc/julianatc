@@ -28,6 +28,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/julianatc/julianatc/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/julianatc/julianatc/main/snake.svg" alt="Snake animation" />
 
 ###
