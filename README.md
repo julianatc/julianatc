@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sobre mim: <br>- Sólidos conhecimentos na área de dados, especificamente nas tecnologias SQL e Oracle PL/SQL<br>- Aluna empowerdata - Formaçāo Python Express</p>
+<p align="left">Sobre mim: <br>- Analista de Sistemas / Desenvolvedora PL/SQL  <br>- Sólidos conhecimentos na área de dados, especificamente nas tecnologias SQL e Oracle PL/SQL<br> - Experiência no setor de Telecom <br>- Aluna empowerdata - Formaçāo Python Express 🚀 </p>
 
 ###
 
